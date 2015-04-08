@@ -213,6 +213,7 @@ var charming = function () {
 		}
 		if ( options.raw === true ) {
 			output = self.rawToUnicode( output );
+			alert( 'raw is true' );
 		}
 		if ( options.simple === true ) {
 			output = self.simpleToUnicode( output );
