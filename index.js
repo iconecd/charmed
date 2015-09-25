@@ -85,7 +85,7 @@ var charming = function () {
 	};
 
 	this.rawToHtml = function ( input ) {
-		return convert( input, clean.raw, clean.raw );
+		return convert( input, clean.raw, clean.html );
 	};
 
 	this.rawToSimple = function ( input ) {
