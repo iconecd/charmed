@@ -1,6 +1,6 @@
 {
   "name": "charmed",
-  "version": "0.2.9",
+  "version": "1.0.0",
   "description": "Unicode/ASCII/HTML conversion utility",
   "main": "index.js",
   "repository": {
